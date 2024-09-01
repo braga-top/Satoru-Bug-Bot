@@ -10,23 +10,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242067712688"
-global.ownername = "Satoru"
-global.ytname = "YT: SatoruTech"
-global.socialm = "GitHub: SatoruTech"
-global.location = "Congo-Brazzaville, Brazzaville, null"
+global.ownernomer = "+509 42 44 13 68"
+global.ownername = "braga"
+global.ytname = "YT: Braga-sd9bu"
+global.socialm = "Instagram: jxst.braga"
+global.location = "Brazil-Rio de janeiro"
 
-global.ownernumber = '242067712688'  //creator number
-global.ownername = 'SatoruTech' //owner name
-global.botname = 'Satoru-Bug-Bot' //name of the bot
+global.ownernumber = +509 42 44 1368  //creator number
+global.ownername = 'braga' //owner name
+global.botname = 'braga-Bot' //name of the bot
 
 //sticker details
-global.packname = 'Satoru X Bot'
-global.author = 'SatoruTech'
+global.packname = 'braga X bot'
+global.author = 'braga'
 
 //console view/theme
-global.themeemoji = '🩵'
-global.wm = "SatoruTech in©"
+global.themeemoji = '🐉'
+global.wm = "braga"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vanj84h6rsQmGlOrMz1X'
@@ -35,13 +35,13 @@ global.link = 'https://whatsapp.com/channel/0029Vanj84h6rsQmGlOrMz1X'
 global.prefa = '.'
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
+global.autoRecording = true   //auto recording
+global.autoTyping = true  //auto typing
+global.autorecordtype = true  //auto typing + recording
+global.autoread = true  //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true  //auto view status/story
 
 //menu type 
 //v1 is image menu, 
